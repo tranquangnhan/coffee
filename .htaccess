@@ -1,17 +1,17 @@
 RewriteEngine On
-RewriteRule ^$ /coffee/site/index.php [L]
-RewriteRule ^site/index.html$ /coffee/site/index.php [L]
+RewriteRule ^$ /site/index.php [L]
+RewriteRule ^site/index.html$ /site/index.php [L]
 
-RewriteRule ^gioi-thieu.html$ /coffee/site/?act=about [L]
-RewriteRule ^san-pham.html$ /coffee/site/?act=cat [L]
-RewriteRule ^bai-viet.html$ /coffee/site/?act=blog [L]
-RewriteRule ^lien-he.html$ /coffee/site/?act=contact [L]
+RewriteRule ^gioi-thieu.html$ /site/?act=about [L]
+RewriteRule ^san-pham.html$ /site/?act=cat [L]
+RewriteRule ^bai-viet.html$ /site/?act=blog [L]
+RewriteRule ^lien-he.html$ /site/?act=contact [L]
 
-RewriteRule ^([a-zA-Z0-9-]+)-([0-9]+).html$ /coffee/site/?act=singleproduct&id=$2&slug=$1 [L]
+RewriteRule ^([a-zA-Z0-9-]+)-([0-9]+).html$ /site/?act=singleproduct&id=$2&slug=$1 [L]
 
-RewriteRule ^bai-viet/page-([0-9]+).html$ /coffee/site/index.php?act=blog&pagenum=$1 [L]
+RewriteRule ^bai-viet/page-([0-9]+).html$ /site/index.php?act=blog&pagenum=$1 [L]
 
-RewriteRule ^bai-viet/([a-zA-Z0-9-]+)-([0-9]+).html$ /coffee/site/?act=blogpost&id=$2&slug=$1 [L]
+RewriteRule ^bai-viet/([a-zA-Z0-9-]+)-([0-9]+).html$ /site/?act=blogpost&id=$2&slug=$1 [L]
 
 #tăng tốc website
 <FilesMatch ".(gif|jpg|png|jpeg|ico)$">
