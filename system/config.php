@@ -1,8 +1,8 @@
 <?php
-define('HOST_DB','localhost');
-define('NAME_DB','coffee');
-define('USER_DB','root');
-define('PASS_DB','');
+define('HOST_DB','us-cdbr-east-04.cleardb.com');
+define('NAME_DB','heroku_e51a0bdfd5b9a88');
+define('USER_DB','b0aee9f6f88e08');
+define('PASS_DB','432966b5');
 define('ROOT_URL','/coffee');
 define('ADMIN_URL',ROOT_URL.'/admin');
 define('SITE_URL',ROOT_URL.'/site/');
