@@ -1,5 +1,4 @@
 <?php
-// header("location: /");
-echo "Nhân";
+header("location: /");
 
 ?>
