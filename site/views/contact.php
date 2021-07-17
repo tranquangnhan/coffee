@@ -16,7 +16,7 @@
             <section class="no-top no-bottom relative overflow-hidden">
 
                 <div  class="map-container-full">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3920.278159243381!2d106.69737501480022!3d10.713015492364578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xefcee9db3eee2a60!2zQ8O0bmcgVHkgVG5oaCBDw6AgUGjDqiBCdcO0biBI4buT!5e0!3m2!1svi!2s!4v1609905954858!5m2!1svi!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.555106260367!2d106.64861071428749!3d10.84531876088509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529983bf24ac5%3A0x64560471b489ad9f!2zNDIsIDI2IMSQxrDhu51uZyBz4buRIDMsIFBoxrDhu51uZyA5LCBHw7IgVuG6pXAsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1626489198910!5m2!1svi!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 </div>
 
                 <div class="color-overlay">
