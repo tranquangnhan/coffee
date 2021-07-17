@@ -1,0 +1,6 @@
+mysql://
+b0aee9f6f88e08
+
+432966b5
+
+us-cdbr-east-04.cleardb.com

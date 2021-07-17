@@ -4,7 +4,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
     <meta charset="utf-8">
-    <title>Rang xay cà phê - Buôn Hồ coffee</title>
+    <title>Rang xay cà phê - cà phê chạy</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="PURO- NGON TRONG TỪNG GIỌI CÀ PHÊ">
     <meta name="keywords" content="puro">
@@ -109,7 +109,7 @@
 
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-md-12 ">
+                    <div class="col-md-12 pl-3">
                          <div id="logo">
                             <a href="<?php // echo ROOT_URL?>">
                                 <img class="logo" width="100" src="views/images/logo2.png" alt="">

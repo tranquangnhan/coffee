@@ -43,11 +43,12 @@ else{
                         <div class="col-md-6">
                             <img src="<?=$img?>" class="img-responsive" alt="">
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 ">
                             <div class="price"><?=$giaban?> <?=$donvitien?></div>
+                            
                             <div class="spacer-single"></div>
                            <?=$mota?>
-
+                           <div class="price mt-3 btnbuy" style="background:red"><a href="tel:0924698776">Đặt Ngay</a></div>
                         </div>
                     </div>
                 </div>

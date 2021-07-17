@@ -36,7 +36,7 @@
                     data-transform_in="y:100px;opacity:0;s:500;e:Power3.easeOut;"
                     data-transform_out="opacity:0;x:-10;s:800;e:Power3.easeInOut;"
                     data-start="1200">
-                    <a href="<?=ROOT_URL."/lien-he.html"?>" class="btn-slider rounded">Liên Hệ Rang Xay</a>&nbsp;&nbsp;
+                    <a href="<?=ROOT_URL."/lien-he.html"?>" class="btn-slider rounded">Liên Hệ Đặt Hàng</a>&nbsp;&nbsp;
                     <a href="<?=ROOT_URL."/lien-he.html"?>" class="btn-solid rounded">Về Chúng Tôi</a>
                 </div>
             </li>
@@ -56,7 +56,7 @@
                     data-splitin="none"
                     data-splitout="none"
                     data-responsive_offset="on">
-                    BUÔN HỒ COFFEE
+                    Cà Phê Chạy
                 </div>
                 <div class="tp-caption text-center"
                     data-x="center"
@@ -67,7 +67,7 @@
                     data-transform_in="y:100px;opacity:0;s:500;e:Power3.easeOut;"
                     data-transform_out="opacity:0;x:-10;s:800;e:Power3.easeInOut;"
                     data-start="1100">
-                    Dịch Vụ Rang Gia Công Cà Phê 3k - 5k
+                    Cà phê ngon nằm ở chất lượng
                 </div>
                 
 
@@ -100,7 +100,7 @@
                     data-splitin="none"
                     data-splitout="none"
                     data-responsive_offset="on">
-                    PURO COFFEE
+                    Cà Phê Chạy
                 </div>
 
                 <div class="tp-caption text-center"
@@ -112,7 +112,7 @@
                     data-transform_in="y:100px;opacity:0;s:500;e:Power3.easeOut;"
                     data-transform_out="opacity:0;x:-10;s:800;e:Power3.easeInOut;"
                     data-start="1100">
-                    "Cà phê là ngôn ngữ quyền lực" - Founder PURO
+                    "Cà phê là ngôn ngữ quyền lực" - Founder CAFE CHÁY
                 </div>
 
                 <div class="tp-caption"
@@ -124,7 +124,7 @@
                     data-transform_in="y:100px;opacity:0;s:500;e:Power3.easeOut;"
                     data-transform_out="opacity:0;x:-10;s:800;e:Power3.easeInOut;"
                     data-start="1200">
-                    <a href="<?=ROOT_URL."/lien-he.html"?>" class="btn-slider rounded">Liên hệ rang xay</a>&nbsp;&nbsp;
+                    <a href="<?=ROOT_URL."/lien-he.html"?>" class="btn-slider rounded">Liên hệ mua cà phê</a>&nbsp;&nbsp;
                     <a href="<?=ROOT_URL."/lien-he.html"?>" class="btn-solid rounded">Về chúng tôi</a>
                 </div>
             </li>
@@ -168,7 +168,7 @@
                     data-transform_in="y:100px;opacity:0;s:500;e:Power3.easeOut;"
                     data-transform_out="opacity:0;x:-10;s:800;e:Power3.easeInOut;"
                     data-start="1200">
-                    <a href="<?=ROOT_URL."/lien-he.html"?>" class="btn-slider rounded">Liên hệ rang xay</a>&nbsp;&nbsp;
+                    <a href="<?=ROOT_URL."/lien-he.html"?>" class="btn-slider rounded">Đặt Ngay</a>&nbsp;&nbsp;
                     <a href="<?=ROOT_URL."/lien-he.html"?>" class="btn-solid rounded">Về chúng tôi</a>
                 </div>
             </li>
@@ -185,11 +185,11 @@
                 <h2><span class="teaser" style="font-size: 50px;">Giới thiệu</span></h2>
                 <span class="tiny-border" style="margin-bottom:30px"></span>
                 <p style="font-size:17px; text-align: justify;text-shadow: 1px 1px 1px black" class="text-white">
-Công Ty TNHH cà phê Buôn Hồ là đơn vị chuyên sản xuất, phân phối, rang gia công cà phê. Với trang thiết bị hiện đại, cùng thợ rang chuyên nghiệp, giàu kinh nghiệm. 
+Công Ty TNHH Cà Phê Chạy là đơn vị chuyên sản xuất, phân phối, rang gia công cà phê. Với trang thiết bị hiện đại, cùng thợ rang chuyên nghiệp, giàu kinh nghiệm. 
                 <p style="font-size:17px; text-align: justify;text-shadow: 1px 1px 1px black" class="text-white">
-Buôn Hồ coffee cam kết mang đến những sản phẩm có chất lượng cao. Tiến độ giao hàng đảm bảo, giá thành hợp lý nhằm đáp ứng yêu cầu và nhu cầu khác nhau của khách hàng.
+Cà Phê Chạy cam kết mang đến những sản phẩm có chất lượng cao. Tiến độ giao hàng đảm bảo, giá thành hợp lý nhằm đáp ứng yêu cầu và nhu cầu khác nhau của khách hàng.
                 <p style="font-size:17px; text-align: justify;text-shadow: 1px 1px 1px black" class="text-white">
-Thế mạnh làm nên thương hiệu cà phê Buôn Hồ khác biệt chính là: Sự chuyên môn hóa trong từng dòng sản phẩm, tính trách nhiệm cao, cẩn thận nhằm tạo nên những sản phẩm hoàn thiện đến từng hương vị nhỏ nhất. Ngoài ra, chúng tôi thường xuyên trao đổi công việc, chia sẻ những khó khăn, sáng kiến xây dựng ngành cà phê năng động, sáng tạo, chuyên nghiệp hơn trong từng sản phẩm đảm nhận.
+Thế mạnh làm nên thương hiệu Cà Phê Chạy khác biệt chính là: Sự chuyên môn hóa trong từng dòng sản phẩm, tính trách nhiệm cao, cẩn thận nhằm tạo nên những sản phẩm hoàn thiện đến từng hương vị nhỏ nhất. Ngoài ra, chúng tôi thường xuyên trao đổi công việc, chia sẻ những khó khăn, sáng kiến xây dựng ngành cà phê năng động, sáng tạo, chuyên nghiệp hơn trong từng sản phẩm đảm nhận.
 </div>
         </div>
     </div>
@@ -354,19 +354,19 @@ Thế mạnh làm nên thương hiệu cà phê Buôn Hồ khác biệt chính l
                                         <div class="col-md-4 text-center" style="background-size: cover; color:white">
                                             <i class="icon_pin_alt fontsize48 id-color mb30"></i>
                                             <h3>Địa Chỉ</h3>
-                                            23/2 Đào Sư Tích, Xã Phước Kiển, Huyện Nhà Bè, TP. Hồ Chí Minh
+                                            42/26, Đường 3, Phường 9, TP. Hồ Chí Minh
                                         </div>
 
                                         <div class="col-md-4 text-center" style="background-size: cover; color:white">
                                             <i class="icon_phone fontsize48 id-color mb30"></i>
                                             <h3>Số Điện Thoại</h3>
-                                            (+84) 0988.399.796 <br> (+84) 03.6862.1899
+                                            (+84) 0924.698.776 <br> (+84) 03.6862.1899
                                         </div>
 
                                         <div class="col-md-4 text-center" style="background-size: cover; color:white">
                                             <i class="icon_mail_alt fontsize48 id-color mb30"></i>
                                             <h3>Email</h3>
-                                            <a href="mailto:caphechuan99@gmail.com">caphechuan99@gmail.com</a>
+                                            <a href="mailto:caphechay@gmail.com">caphechay@gmail.com</a>
                                         </div>
                                     </div>
                                 </div>

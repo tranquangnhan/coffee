@@ -5,9 +5,9 @@
                     <div class="container">
            
                         <div class="col-md-8  " id="info_company">
-                            <h2 class="title_ft">CÔNG TY TNHH CÀ PHÊ BUÔN HỒ</h2>
+                            <h2 class="title_ft">CÔNG TY TNHH CÀ PHÊ CHẠY</h2>
 
-                            <i class="fa fa-home"> 188 Đào Sư Tích, Xã Phước Kiển, Huyện Nhà Bè, TP. Hồ Chí Minh</i>
+                            <i class="fa fa-home">42/26 Đường 3, Phường 9, Quận Gò Vấp, TP. Hồ Chí Minh</i>
                             
                             <i class="fa fa-home"> 07 Âu Cơ, phường An Bình, thị xã Buôn Hồ, tỉnh ĐakLak</i>
 
@@ -15,9 +15,9 @@
 
                             <i class="fa fa-phone"> Hotline: (+84) 0988.399.796 - (+84) 03.6862.1899</i><br>
 
-                            <i class="fa fa-envelope-o"><a href="mailto:Email: caphechuan99@gmail.com"> Email: caphechuan99@gmail.com</a></i><br>
+                            <i class="fa fa-envelope-o"><a href="mailto:Email: caphechuan99@gmail.com"> Email: caphechay@gmail.com</a></i><br>
 
-                            <i class="fa fa-globe"><a href=""> www.caphechuan.com</a></i>
+                            <i class="fa fa-globe"><a href=""> www.quangnhan.me</a></i>
                                       
                         </div>
                        

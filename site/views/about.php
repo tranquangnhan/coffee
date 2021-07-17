@@ -26,7 +26,7 @@
 
 
                       <p style="text-align: justify">
-                          Buôn Hồ coffee là công ty chuyên cung cấp sản phẩm cà phê hạt rang và dịch vụ rang gia công cà phê. Với tiêu chí chuyên nghiệp, chất lượng, giá cả hợp lý. Chúng tôi cam kết mang đến những sản phẩm tốt nhất cho quý khách.<br>
+                          Cà Phê Chạy là công ty chuyên cung cấp sản phẩm cà phê hạt rang xay tại gia. Với tiêu chí chuyên nghiệp, chất lượng, giá cả hợp lý. Chúng tôi cam kết mang đến những sản phẩm tốt nhất cho quý khách.<br>
                       </p>
 
                       <div class="spacer-single"></div>

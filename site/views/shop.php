@@ -26,12 +26,11 @@
 
                             <p>
 
+Cà Phê Chạy là công ty chuyên cung cấp cà phê bột rang xay tại gia.<br>
 
-Buôn Hồ coffee nhận rang gia công cà phê theo yêu cầu của quý khách.<br>
+Ngoài ra chúng tôi còn cung cấp các máy pha cà phê, cà phê của chúng tôi có đa dạng loại: Robusta, Abrabica, Culi, Cherry, … từ nhiều vùng nông trại nổi tiếng của Việt Nam (Buôn Hồ, ĐakLak, ĐakNông, Gia Lai, Xuân Trường, Trạm Hành, Cầu Đất, Lâm Đồng, Sơn La, Khe Sanh, …) trong nước. <br>
 
-Ngoài ra chúng tôi còn cung cấp các dòng cà phê nhân sống (Natural, Honey, Washed process): Robusta, Abrabica, Culi, Cherry, … từ nhiều vùng nông trại nổi tiếng của Việt Nam (Buôn Hồ, ĐakLak, ĐakNông, Gia Lai, Xuân Trường, Trạm Hành, Cầu Đất, Lâm Đồng, Sơn La, Khe Sanh, …) trong nước. <br>
-
-Chi phí rang gia công chỉ từ 3k -> 5k/kg đảm bảo mang đến chất lượng cùng sự tiện lợi và hài lòng cho quý khách.<br>
+Kinh nghiệm rang gia công sản xuất cà phê của chúng tôi lên đến 10 năm, đảm bảo mang đến chất lượng cùng sự tiện lợi và hài lòng cho quý khách.<br>
 
 Hiện nay nhu cầu cà phê chất lượng cao đang tăng mạnh và xu hướng đổi mới trong sản phẩm. Bạn không nên bỏ lỡ cơ hội đầu tư cho chính mình ngay hôm nay. Đừng ngần ngại hãy liên hệ với chúng tôi để được tư vấn và tìm hiểu quy trình rang gia công cà phê ngay bây giờ. 
 
@@ -136,7 +135,7 @@ Hiện nay nhu cầu cà phê chất lượng cao đang tăng mạnh và xu hư�
                         <div class="col-md-8 col-md-offset-4">
 
                             <div class="text-center">
-                                <h2>Cà Phê Nhân<span class="teaser"></span><span class="small-border center"></span></h2>
+                                <h2>Cà Phê BỘT<span class="teaser"></span><span class="small-border center"></span></h2>
                             </div>
 
                             <div class="de_tab tab_style_1">
