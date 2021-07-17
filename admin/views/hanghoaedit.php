@@ -16,7 +16,7 @@ if(is_file($img)){
 }else{
     $img = "nothing...";
 }
-$gia = forMatTien($showspedit['gia']);
+$gia = $showspedit['gia'];
 $luotxem = $showspedit['luotxem'];
 $noibat = checked($showspedit['noibat']);
 $anhien = checked($showspedit['anhien']);
