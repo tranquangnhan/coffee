@@ -94,7 +94,7 @@ $mota = $showspedit['mota'];
                                     <label for=""><strong>Giá</strong></label>
                                 </div>
                                 <div class="col-lg-9">
-                                    <input type="number" name="gia" id="" value="<?=floatVal($gia)?>" class="form-control" placeholder="Nhập Giá Sản Phẩm"
+                                    <input type="number" name="gia" id="" value="<?=$gia?>" class="form-control" placeholder="Nhập Giá Sản Phẩm"
                                     required>
                                 </div>
                             </div>
