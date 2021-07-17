@@ -15,7 +15,7 @@
 	<script src="js/html5shiv.js"></script>
 	<![endif]-->
 
-    <base href="/coffee/site/">
+    <base href="/site/">
     <!-- CSS Files
     ================================================== -->
     <meta property="og:image" content="https://www.caphechuan.com/site/views/images/logo-og.png" />
