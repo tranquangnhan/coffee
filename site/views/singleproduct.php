@@ -50,7 +50,7 @@ else{
                            <?=$mota?>
                           
                         </div>
-                        <div class="col-lg-12">
+                        <div class="col-lg-6 mt-3">
                             <div class="price mt-3 btnbuy" style="background:red"><a href="tel:0924698776">Đặt Ngay</a></div>
                         </div>
                     </div>
