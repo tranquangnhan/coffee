@@ -15,7 +15,7 @@
 	<script src="js/html5shiv.js"></script>
 	<![endif]-->
 
-    <base href="/site/">
+    <base href="/coffee/site/">
     <!-- CSS Files
     ================================================== -->
     <meta property="og:image" content="https://www.caphechuan.com/site/views/images/logo-og.png" />
@@ -112,8 +112,8 @@
                     <div class="col-md-12 pl-3">
                          <div id="logo">
                             <a href="<?php // echo ROOT_URL?>">
-                                <img class="logo" width="100" src="views/images/logo2.png" alt="">
-                                <img class="logo-2" src="views/images/logo-2.png" alt="">
+                                <img class="logo"  src="views/images/coffee-chay-nobg.png" alt="">
+                                <img class="logo-2" src="views/images/coffee-chay.png" alt="">
                             </a>
                         </div> 
 

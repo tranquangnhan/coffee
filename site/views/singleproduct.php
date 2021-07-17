@@ -18,7 +18,7 @@ else{
 	}
 	$donvitien = showDonViTien($id);
 	if($donvitien == 0){
-		$donvitien = "Đ/KG";
+		$donvitien = "VNĐ";
 	}else{
 		$donvitien = "TR";
 	}

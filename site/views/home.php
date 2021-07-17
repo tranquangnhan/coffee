@@ -112,7 +112,7 @@
                     data-transform_in="y:100px;opacity:0;s:500;e:Power3.easeOut;"
                     data-transform_out="opacity:0;x:-10;s:800;e:Power3.easeInOut;"
                     data-start="1100">
-                    "Cà phê là ngôn ngữ quyền lực" - Founder CAFE CHÁY
+                    "Cà phê là ngôn ngữ quyền lực" - Founder CAFE CHẠY
                 </div>
 
                 <div class="tp-caption"
@@ -272,7 +272,7 @@ Thế mạnh làm nên thương hiệu Cà Phê Chạy khác biệt chính là: 
                         <a href="<?=$linksp?>"><img src="<?=$img?>" class="img-responsive" alt=""></a>
                         <div class="sub-item-service meta" style="background-size: cover;">
                             <div class="c1" style="background-size: cover; text-shadow: 1px 1px 1px black"><a href="<?=$linksp?>"><?=$motsp['name']?></a> </div>
-                            <div class="c3" style="background-size: cover;"><?=$giaban?> Đ/KG</div>
+                            <div class="c3" style="background-size: cover;"><?=$giaban?> VNĐ</div>
                         </div>
                         <div class="service-text meta-content" style="background-size: cover; text-shadow: 2px 2px black;"><?=$mota?></div>
                     </div>

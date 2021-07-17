@@ -86,19 +86,19 @@
                                                 <div class="col-md-4 text-center">
                                                     <i class="icon_pin_alt fontsize48 id-color mb30"></i>
                                                     <h3>Địa Chỉ</h3>
-                                                    23/2 Đào Sư Tích, Xã Phước Kiển, Huyện Nhà Bè, TP. Hồ Chí Minh
+                                                    42/26, Đường 3, Phường 9, Gò Vấp, TP. Hồ Chí Minh
                                                 </div>
 
                                                 <div class="col-md-4 text-center">
                                                     <i class="icon_phone fontsize48 id-color mb30"></i>
                                                     <h3>Phone</h3>
-                                                    (+84) 03.6862.1899
+                                                    (+84) 0924.698.776
                                                 </div>
 
                                                 <div class="col-md-4 text-center">
                                                     <i class="icon_mail_alt fontsize48 id-color mb30"></i>
                                                     <h3>Email</h3>
-                                                    <a href="mailto:caphechuan99@gmail.com">caphechuan99@gmail.com</a>
+                                                    <a href="mailto:caphechay@gmail.com">caphechay@gmail.com</a>
                                                 </div>
                                             </div>
 
