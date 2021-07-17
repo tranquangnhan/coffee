@@ -230,7 +230,7 @@ Thế mạnh làm nên thương hiệu Cà Phê Chạy khác biệt chính là: 
                         <span class="border-overlay"></span>
                         <img src="views/images/menu/thumbs/caphenhan.jpg" class="img-responsive imgsp" alt="">
                     </figure>
-                    <h3 style="font-size:22px;margin-bottom: 20px; text-shadow: 1px 1px 1px black"><a href="<?=ROOT_URL."/bai-viet/ca-phe-nhan-xanh-17.html"?>"> Cà Phê Nhân Xanh</a></h3>
+                    <h3 style="font-size:22px;margin-bottom: 20px; text-shadow: 1px 1px 1px black"><a href="<?=ROOT_URL."/bai-viet/ca-phe-nhan-xanh-17.html"?>"> Cà Phê Bột</a></h3>
 
                 </div>
             </div>

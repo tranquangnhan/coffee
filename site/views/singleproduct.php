@@ -48,7 +48,10 @@ else{
                             
                             <div class="spacer-single"></div>
                            <?=$mota?>
-                           <div class="price mt-3 btnbuy" style="background:red"><a href="tel:0924698776">Đặt Ngay</a></div>
+                          
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="price mt-3 btnbuy" style="background:red"><a href="tel:0924698776">Đặt Ngay</a></div>
                         </div>
                     </div>
                 </div>
